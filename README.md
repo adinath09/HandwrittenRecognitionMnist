@@ -1,0 +1,2 @@
+# HandwrittenRecognitionMnist
+ML project
